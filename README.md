@@ -45,8 +45,6 @@ inputRoot\<层号>\*.tif
 processMainCode1Layer → 等同 MainCode1（读文件夹内多个 tif，而非多页堆栈）
 processSmaincode → 等同 Smaincode
 输出（按类型分文件夹）：
-
-文件夹	内容
 01_亚区域堆栈_mat
 每层 datastacks2.mat
 02_亚区域叠加图
